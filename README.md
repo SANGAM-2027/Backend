@@ -1,2 +1,2 @@
 # Backend
-Backend API using NestJS
+APIs, authentication, authorization, registration logic, fixture management, results and database integration.
